@@ -4,7 +4,7 @@ The purpose of this package is to help simplify the process of Cryptography usin
 
 The Cryptography.php file contains AEAD_XCHACHA20_POLY1305_IETF Encryption and Decryption methods capiable of cryptographically securing and decrypting a range of data types.  
 
-Additionally, the Cryptography class offers methods to hash and salt passwords using the Argon2ID alogorithm.  
+Additionally, the Cryptography class offers methods to hash and salt passwords using the Argon2ID algorithm.  
 
 ## Security Issues
 > **Warning** 
