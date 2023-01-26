@@ -15,8 +15,8 @@ Do not report elsewhere.
 For all other issues with this file or bundle, please feel free to open a issue on Github or contact the author.
 
 ## Document Notes
-Created: 2021 12 22 - 01:45 GMT  
-Updated: 2022 07 21 - 01:51 GMT  
+Created: 2021 12 21 - 01:45 GMT  
+Updated: 2022 07 22 - 01:51 GMT  
 
 ## Development State 
 [✔️] Symmetric Encryption  
