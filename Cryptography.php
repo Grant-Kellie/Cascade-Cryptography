@@ -1,9 +1,9 @@
 <?php declare(strict_types = 1);
 
 /**
- * [Cascade Media]
- * @author Grant Kellie : contact@cascade.media
- * @link: https://cascade.media
+ * Cascade Cryptography
+ * @author Grant Kellie : contact@grantkellie.dev
+ * @link: https://grantkellie.dev
  * @copyright 2022 Grant Kellie | Cascade Media
  * @license   
  *  - You may not alter or remove any copyright or other notice from this file.
