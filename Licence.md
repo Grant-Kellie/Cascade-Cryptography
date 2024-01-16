@@ -1,6 +1,6 @@
 # Cascade Cryptography 
 ## Copyright 
-© 2022 Grant Kellie | Cascade Media <contact@cascade.media> | <dev@grantkellie.dev>
+© 2022 Grant Kellie | <contact@grantkellie.dev>
 
 ## Licence
 - You may not alter or remove any copyright or other notice from this file.
