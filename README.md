@@ -44,6 +44,3 @@ Max Bytes for a single Key: Up to 2^64* messages, no practical total size limits
 #### Security Notes  
 Sodium_bin2hex offers side-channel atteck attack mitigation.  
 see https://owasp.org/www-pdf-archive/Side_Channel_Vulnerabilities.pdf
-
-## Copyright
-© 2022 Grant Kellie
